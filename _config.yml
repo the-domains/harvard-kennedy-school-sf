@@ -1,0 +1,28 @@
+name: Harvard Kennedy School SF
+favicon: null
+layout_spectrum: 0.9796301659662277
+typography_spectrum: 0.8317014644853771
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8460472493898124
+  lightness: 0.8992297695949674
+  saturation: 0.6043455596081913
+  rhythmicContrast: 0.34822704503312707
+purpose: []
